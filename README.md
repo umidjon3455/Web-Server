@@ -1,5 +1,5 @@
 # web_server
-
+.
 - A small, POSIX-oriented HTTP web server written in C++98 (epoll-based event loop). This project implements a minimal but featureful HTTP server with support for:
 
 - Level-triggered epoll-based event loop and file descriptor management
